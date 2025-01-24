@@ -1,0 +1,8 @@
+env
+.env
+.cache
+Dockerfile
+.dockerignore
+.langchain.db
+__pycache__/
+*.pyc
