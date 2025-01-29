@@ -1,7 +1,8 @@
 # Boost Self-Studying
 
 ## TL;DR
-This web application simplifies studying by providing clear and practical explanations of topics based on your uploaded studying documents and Wikipedia. If you’re struggling with complex materials, this app helps break them down into easy-to-understand explanations.
+This web application simplifies studying by providing clear and practical explanations of topics based on your uploaded studying documents and Wikipedia. 
+If you’re struggling with complex materials, this app helps break them down into easy-to-understand explanations.
 
 ## How It Works
 
