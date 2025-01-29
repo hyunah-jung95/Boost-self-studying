@@ -23,6 +23,7 @@ This web application simplifies studying by providing clear and practical explan
 ## How to Run Locally
 ```
 pip install -r requirements.txt
+gcloud auth application-default login
 streamlit run main.py
 ```
 ## Features
